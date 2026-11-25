@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlannerEngine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.21.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Planner-Sheets-Engine-
+Creating daily task panners in a form engine and downloading it for manual use
+>>>>>>> a8ab6103768895278cd2b1554ec101988b467332
